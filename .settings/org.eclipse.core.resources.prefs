@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/xmj/tool/xdecompressor/util/ConfigUtil.java=UTF-8
+encoding//src/main/java/com/xmj/tool/xdecompressor/util/DateFormatFun.java=UTF-8
+encoding//src/main/java/com/xmj/tool/xdecompressor/util/DealSomething.java=UTF-8
+encoding//src/main/java/com/xmj/tool/xdecompressor/util/StringUtil.java=UTF-8
+encoding//src/main/java/com/xmj/tool/xdecompressor/util/deCompressUtil/UnJarUtil.java=UTF-8
+encoding//src/main/java/com/xmj/tool/xdecompressor/util/deCompressUtil/UnTarGzUtil.java=UTF-8
+encoding//src/main/java/com/xmj/tool/xdecompressor/util/deCompressUtil/UnTarUtil.java=UTF-8
+encoding//src/main/java/com/xmj/tool/xdecompressor/util/ext/DeCompressExt.java=UTF-8
